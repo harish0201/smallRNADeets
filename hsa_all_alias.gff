@@ -1,3 +1,6 @@
+##gff-version 3
+# microRNAs:    MirGeneDB v2.0
+# genome-build-id:  hg38
 chr1	.	miRNA	1167124	1167145	.	+	.	ID=Hsa-Mir-8-P2a_5p*;Alias=MIMAT0004571
 chr1	.	pre_miRNA	1167124	1167182	.	+	.	ID=Hsa-Mir-8-P2a_pre;Alias=MI0000342
 chr1	.	miRNA	1167160	1167182	.	+	.	ID=Hsa-Mir-8-P2a_3p;Alias=MIMAT0000318
